@@ -1,0 +1,20 @@
+﻿  Infection.cpp
+C:\Users\User\source\repos\Infection\Infection\Infection.cpp(7,5): error C2086: 'int HEIGHT': redefinition
+C:\Users\User\source\repos\Infection\Infection\Infection.cpp(6): message : see declaration of 'HEIGHT'
+C:\Users\User\source\repos\Infection\Infection\Infection.cpp(41,25): error C2065: 'WIDTH': undeclared identifier
+C:\Users\User\source\repos\Infection\Infection\Infection.cpp(45,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\Infection\Infection\Infection.cpp(60,33): error C2065: 'WIDTH': undeclared identifier
+C:\Users\User\source\repos\Infection\Infection\Infection.cpp(89,27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\Infection\Infection\Infection.cpp(110,32): error C2065: 'WIDTH': undeclared identifier
+C:\Users\User\source\repos\Infection\Infection\Infection.cpp(118,32): error C2065: 'WIDTH': undeclared identifier
+C:\Users\User\source\repos\Infection\Infection\Infection.cpp(151,25): error C2065: 'WIDTH': undeclared identifier
+C:\Users\User\source\repos\Infection\Infection\Infection.cpp(166,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\Infection\Infection\Infection.cpp(177,33): error C2065: 'WIDTH': undeclared identifier
+C:\Users\User\source\repos\Infection\Infection\Infection.cpp(192,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\Infection\Infection\Infection.cpp(198,22): error C2065: 'WIDTH': undeclared identifier
+C:\Users\User\source\repos\Infection\Infection\Infection.cpp(199,105): error C2065: 'WIDTH': undeclared identifier
+C:\Users\User\source\repos\Infection\Infection\Infection.cpp(204,28): error C2065: 'WIDTH': undeclared identifier
+C:\Users\User\source\repos\Infection\Infection\Infection.cpp(205,37): error C2065: 'WIDTH': undeclared identifier
+C:\Users\User\source\repos\Infection\Infection\Infection.cpp(206,25): error C2065: 'WIDTH': undeclared identifier
+C:\Users\User\source\repos\Infection\Infection\Infection.cpp(212,25): error C2065: 'WIDTH': undeclared identifier
+C:\Users\User\source\repos\Infection\Infection\Infection.cpp(234,25): error C2065: 'WIDTH': undeclared identifier
